@@ -1,0 +1,28 @@
+{
+  "name": "node_crash_course",
+  "version": "1.0.0",
+  "description": "NodeJS Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smit1203/node_crash_course.git"
+  },
+  "keywords": [
+    "code",
+    "step",
+    "by",
+    "step"
+  ],
+  "author": "Smit Mehta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Smit1203/node_crash_course/issues"
+  },
+  "homepage": "https://github.com/Smit1203/node_crash_course#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
